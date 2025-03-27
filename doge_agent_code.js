@@ -1,5 +1,4 @@
-    <script>
-        // Grant data retrieved from the DOGE API
+// Grant data retrieved from the DOGE API
         const grantData = {
             "success": true,
             "result": {
@@ -656,4 +655,3 @@
         window.addEventListener('load', function() {
             showProgress();
         });
-    </script>
